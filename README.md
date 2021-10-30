@@ -4,7 +4,8 @@
 
 ## Live Demo
 
-Preview: https://codepen.io/Pirci/pen/bGNymRo
+Preview:
+[https://codepen.io/Pirci/pen/bGNymRo](https://codepen.io/Pirci/pen/bGNymRo).
 
 ![home-page](homepage.png)
 
